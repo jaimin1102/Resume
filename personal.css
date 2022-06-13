@@ -1,0 +1,22 @@
+body {
+    background-color: #F1EEE9;
+}
+hr {
+    border: lightgray;
+    border-top-style: dotted;
+    border-top-width: 0.4em;
+    width: 4%
+}
+.myPic {
+    border: 3px solid #15133C;
+    border-radius: 55%;
+}
+h1 {
+    color: #15133C;
+}
+h3 {
+    color: #EC994B;
+}
+h4 {
+    color: #15133C;
+}

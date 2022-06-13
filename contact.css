@@ -1,0 +1,18 @@
+.container {
+    border: 3px solid black;
+    padding: 20px;
+    border-radius: 20px;
+}
+.submit_button_styled {
+    background-color: #EC994B;
+    color: #15133C;
+    height: 5%;
+    width: 60px;
+    border: 2px solid #15133C;
+    border-radius: 1vh;
+    cursor: pointer;
+}
+.submit_button_styled:hover {
+    color: white;
+    background-color: #15133C;
+}
